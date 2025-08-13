@@ -24,4 +24,4 @@ The color and masking values are printen after each click to make it easy to rec
 
 | Original Image                | Partly Masked Image           |
 |-------------------------------|-------------------------------|
-| ![Original](images/ChatGPT%20Image.png) | ![Masked](images/image.png)           |
+| ![Original](images/ChatGPT%20Image.png) | ![Masked](images/partly%20masked%20image.png)           |
